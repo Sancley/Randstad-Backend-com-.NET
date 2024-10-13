@@ -1,37 +1,31 @@
 # Randstad Backend com .NET - Estudos
 
-Bem-vindo ao repositório de estudos do curso **Randstad - Backend com .NET**! 🎓
+Bem-vindo ao meu repositório de estudos do curso **Randstad - Backend com .NET**! 🎓
 
-Este repositório contém os projetos, códigos e anotações que desenvolvi durante o curso. Aqui, exploro o uso da plataforma .NET para criar aplicações backend robustas, seguras e escaláveis.
+Estou iniciando minha jornada com o curso e este repositório será atualizado conforme eu for completando cada etapa. 🚀
 
 ## 🔍 Descrição do Curso
 
-O curso abordou os seguintes tópicos principais:
+O curso aborda os seguintes tópicos principais:
 
 - **Fundamentos do .NET Core**
-  - Estrutura e arquitetura de projetos .NET
-  - Configuração do ambiente de desenvolvimento
-
 - **Desenvolvimento de APIs RESTful**
-  - Criação de rotas e controladores
-  - Conexão com banco de dados (Entity Framework)
-  - Validação e autenticação de usuários
-
 - **Testes Unitários**
-  - Implementação de testes com xUnit
-  - Boas práticas de TDD (Test Driven Development)
-
 - **Boas Práticas no Backend**
-  - Padrões de projetos
-  - Manutenção e escalabilidade de código
+
+Estou animado para mergulhar nesses temas e compartilhar meu progresso por aqui!
 
 ## 📂 Estrutura do Repositório
 
+Este repositório será organizado da seguinte forma (à medida que as etapas forem sendo concluídas):
+
 - **/src**: Códigos-fonte dos projetos desenvolvidos no curso.
-- **/docs**: Anotações, slides e materiais de apoio usados ao longo do curso.
-- **/tests**: Testes unitários criados durante o curso para garantir a qualidade do código.
-  
-## 🚀 Tecnologias Utilizadas
+- **/docs**: Anotações, slides e materiais de apoio.
+- **/tests**: Testes unitários criados para garantir a qualidade do código.
+
+## 🚀 Tecnologias que usarei
+
+Estas são as tecnologias que aprenderei e usarei durante o curso:
 
 - **.NET Core 6**
 - **C#**
@@ -39,29 +33,30 @@ O curso abordou os seguintes tópicos principais:
 - **SQL Server**
 - **xUnit**
 
-## 📈 Progresso
+## 📈 Progresso Atual
 
 | Módulo                          | Status   |
 |----------------------------------|----------|
-| Fundamentos do .NET Core         | ✅ Concluído |
-| Desenvolvimento de APIs RESTful  | ✅ Concluído |
-| Testes Unitários                 | ✅ Concluído |
-| Boas Práticas no Backend         | ✅ Concluído |
-
-## 💡 O que aprendi?
-
-Durante este curso, aprendi a desenvolver uma aplicação backend utilizando o **.NET Core**. Ganhei experiência em criação de APIs, integração com banco de dados, boas práticas de código e desenvolvimento orientado a testes (TDD).
+| Fundamentos do .NET Core         | ⏳ Em progresso |
+| Desenvolvimento de APIs RESTful  | ⏳ Em breve |
+| Testes Unitários                 | ⏳ Em breve |
+| Boas Práticas no Backend         | ⏳ Em breve |
 
 ## 📚 Próximos Passos
 
-Pretendo continuar aprimorando minhas habilidades com .NET explorando conceitos mais avançados e trabalhando em projetos reais, focando em:
-- Implementação de autenticação OAuth2
-- Integração com serviços de nuvem (Azure)
-- Deploy automatizado com CI/CD
+À medida que eu avançar, irei:
+
+- Adicionar códigos dos projetos criados.
+- Compartilhar anotações e aprendizados.
+- Completar cada módulo e atualizar o status da tabela de progresso.
+
+## 💡 O que espero aprender?
+
+Durante este curso, espero desenvolver uma sólida base no backend com **.NET Core**, aprender a criar APIs, trabalhar com bancos de dados, aplicar testes e seguir boas práticas de desenvolvimento de software.
 
 ## 🤝 Contribuindo
 
-Se você tiver sugestões ou quiser colaborar, fique à vontade para abrir um *issue* ou enviar um *pull request*!
+Sugestões e feedbacks são bem-vindos! Fique à vontade para abrir um *issue* ou enviar um *pull request* conforme o repositório evolui.
 
 ---
 
