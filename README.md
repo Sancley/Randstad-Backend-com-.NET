@@ -38,9 +38,9 @@ Estas são as tecnologias que aprenderei e usarei durante o curso:
 | Módulo                          | Status   |
 |----------------------------------|----------|
 | Fundamentos do .NET Core         | ⏳ Em progresso |
-| Desenvolvimento de APIs RESTful  | ⏳ Em breve |
-| Testes Unitários                 | ⏳ Em breve |
-| Boas Práticas no Backend         | ⏳ Em breve |
+|  | ⏳ Em breve |
+|  | ⏳ Em breve |
+|  | ⏳ Em breve |
 
 ## 📚 Próximos Passos
 
