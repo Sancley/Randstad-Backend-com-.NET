@@ -50,11 +50,14 @@ Estas são as tecnologias que aprenderei e usarei durante o curso:
 - Compartilhar anotações e aprendizados.
 - Completar cada módulo e atualizar o status da tabela de progresso.
 
+
 ## 💡 O que espero aprender?
 
 Durante este curso, espero desenvolver uma sólida base no backend com **.NET Core**, aprender a criar APIs, trabalhar com bancos de dados, aplicar testes e seguir boas práticas de desenvolvimento de software.
 
 ## 🤝 Contribuindo
+
+Estou muito empolgado com o curso.
 
 Sugestões e feedbacks são bem-vindos! Fique à vontade para abrir um *issue* ou enviar um *pull request* conforme o repositório evolui.
 
